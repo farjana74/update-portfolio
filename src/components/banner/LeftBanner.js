@@ -33,19 +33,7 @@ const LeftBanner = () => {
             cursorColor="#ff014f"
           />
         </h2>
-        {/* <p className="text-base font-bodyFont leading-6 tracking-wide">
-          Experienced Front End Developer with a 3 years track record in the
-          industry, specializing in expertise in React, JavaScript, TypeScript,
-          Node js and adept at contributing to diverse web applications in SaaS
-          environments, I uniquely blend technical prowess with a rich
-          multicultural background, and emphasizing tangible contributions to
-          organizational growth. Recognized for quantifiable measures in driving
-          success, I thrive in the era of AI and automation, showcasing
-          adaptable skills, Eager to enhance user-centric applications and
-          deliver high-quality, reusable UI components for monitoring solutions
-          and fostering strong teamwork for a dynamic and inclusive work
-          environment.
-        </p> */}
+        {/* paragruph here */}
       </div>
       <div
         data-aos="fade-right"
